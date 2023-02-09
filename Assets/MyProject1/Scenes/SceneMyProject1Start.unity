@@ -1627,11 +1627,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'A - Move Left
+  m_text: 'Q - Move Left
 
     D - Move Right
 
-    W - Look Up
+    Z - Look Up
 
     S - Look Down/Fall
     through platform
@@ -2682,10 +2682,10 @@ RectTransform:
   m_Father: {fileID: 1270299957}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.014, y: 0.019000001}
-  m_AnchorMax: {x: 0.042552628, y: 0.079}
-  m_AnchoredPosition: {x: 0.30004883, y: -0.2000122}
-  m_SizeDelta: {x: -0.8560028, y: -0.24700165}
+  m_AnchorMin: {x: 0.014, y: 0.018000001}
+  m_AnchorMax: {x: 0.051000003, y: 0.079}
+  m_AnchoredPosition: {x: 0.30004883, y: 1}
+  m_SizeDelta: {x: -0.7379999, y: -1.4470401}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &496257558
 MonoBehaviour:
@@ -8841,7 +8841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a285a926a0cd654280fc5b842d63c0a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  websiteAddress: https://makeyourgame.fun
+  websiteAddress: https://github.com/DorianSalas/MakeYourGameProject1Public
 --- !u!1 &1673236900
 GameObject:
   m_ObjectHideFlags: 0
