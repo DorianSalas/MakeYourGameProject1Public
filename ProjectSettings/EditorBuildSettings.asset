@@ -9,18 +9,18 @@ EditorBuildSettings:
     path: Assets/MyProject1/Scenes/SceneMyProject1Start.unity
     guid: b93015d990a031b4e84a01d9d6931e8c
   - enabled: 1
+    path: Assets/MyProject1/Scenes/SceneMyProject1Level1.unity
+    guid: 5835a07f4da0dbb4a8307e1c13593706
+  - enabled: 1
     path: Assets/MyProject1/Scenes/SceneMyProject1Level2.unity
     guid: 4ff5aabdaa6571b4799ae1c003ba13d8
   - enabled: 1
-    path: Assets/MyProject1/Scenes/SceneMyProject1Level1.unity
-    guid: 5835a07f4da0dbb4a8307e1c13593706
+    path: Assets/MyProject1/Scenes/SceneMyProject1Win.unity
+    guid: d2165227108043b4cbc930eb5a096fdb
   - enabled: 1
     path: Assets/MyProject1/Scenes/ScenesUI/UIMenus.unity
     guid: 99f5f218416904f4ca38fd78b76c083e
   - enabled: 1
     path: Assets/MyProject1/Scenes/ScenesUI/Loading.unity
     guid: ebf802261d73cb44cb9e3bd6e6e6bcec
-  - enabled: 1
-    path: Assets/MyProject1/Scenes/SceneMyProject1Win.unity
-    guid: d2165227108043b4cbc930eb5a096fdb
   m_configObjects: {}
